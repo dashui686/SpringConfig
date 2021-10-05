@@ -1,2 +1,2 @@
-spring:
-  info: "version: 1"
+config:
+  info: "config-dev.xml;version: 1"
